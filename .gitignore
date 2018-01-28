@@ -1,0 +1,5 @@
+*.swp
+output/*
+*.cmi
+*.cmx
+*.o
